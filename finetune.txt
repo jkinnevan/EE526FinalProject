@@ -1,0 +1,200 @@
+ba	Want juice pwease.	en	"I want juice, please."
+ba	Cat meowing.	en	The cat is meowing.
+ba	Pway hide seek.	en	Let's play hide and seek.
+ba	Sky is dark.	en	The sky is dark.
+ba	Stars so bright.	en	The stars are so bright.
+ba	Want wead book.	en	I want to read a book.
+ba	Time for nap.	en	It's time for a nap.
+ba	Open window.	en	Please open the window.
+ba	Cwose door.	en	Please close the door.
+ba	Need hewp tie.	en	I need help tying my shoes.
+ba	Drink miwk.	en	I am drinking milk.
+ba	Eat breakfast.	en	It's time to eat breakfast.
+ba	Birds singing.	en	The birds are singing.
+ba	Want to draw.	en	I want to draw.
+ba	Use markers.	en	I want to use markers.
+ba	Need scissors.	en	I need scissors.
+ba	Pet da cat.	en	Can I pet the cat?
+ba	Feed fish.	en	Let's feed the fish.
+ba	Wear raincoat.	en	I need to wear my raincoat.
+ba	Hands sticky.	en	My hands are sticky.
+ba	Wash face.	en	I need to wash my face.
+ba	Want cupcake.	en	I want a cupcake.
+ba	Too woud.	en	It's too loud.
+ba	Too quiet.	en	It's too quiet.
+ba	Pway puzzle.	en	Let's play with the puzzle.
+ba	Piece missing.	en	A piece is missing.
+ba	Found piece.	en	I found the piece.
+ba	Buiwd train tracks.	en	Let's build train tracks.
+ba	Train coming!	en	The train is coming!
+ba	Need batteries.	en	I need batteries.
+ba	Watch cwouds.	en	Let's watch the clouds.
+ba	Cwoud wook wike animaw.	en	The cloud looks like an animal.
+ba	Make wemonade stand.	en	Let's make a lemonade stand.
+ba	Sew wemonade.	en	Let's sell lemonade.
+ba	Count money.	en	Let's count the money.
+ba	Give change.	en	We need to give change.
+ba	Want smoovie.	en	I want a smoothie.
+ba	Pick berries.	en	Let's pick berries.
+ba	Eat berries.	en	We can eat the berries.
+ba	Wash fruits.	en	We need to wash the fruits.
+ba	Make fruit sawad.	en	Let's make a fruit salad.
+ba	Cut fruits.	en	We need to cut the fruits.
+ba	Mix togever.	en	Let's mix them together.
+ba	Yummy snack.	en	This is a yummy snack.
+ba	Go picnic.	en	Let's go on a picnic.
+ba	Pack basket.	en	Let's pack the basket.
+ba	Spwead bwanket.	en	Let's spread out the blanket.
+ba	Bugs here.	en	There are bugs here.
+ba	Use bug spray.	en	We should use bug spray.
+ba	Pway frisbee.	en	Let's play frisbee.
+ba	Catch it!	en	Catch it!
+ba	Good frow!	en	That was a good throw!
+ba	Tired now.	en	I am tired now.
+ba	Rest under tree.	en	Let's rest under the tree.
+ba	Wook at ants.	en	Look at the ants.
+ba	Ants carry food.	en	The ants are carrying food.
+ba	Make neckwace.	en	Let's make a necklace.
+ba	Use shews.	en	Let's use shells.
+ba	Cowect rocks.	en	Let's collect rocks.
+ba	Paint rocks.	en	Let's paint the rocks.
+ba	Make garden.	en	Let's make a garden.
+ba	Pwant fwowers.	en	Let's plant flowers.
+ba	Wawa seeds.	en	We need to water the seeds.
+ba	Fwowers bwoom.	en	The flowers will bloom.
+ba	Smew nice.	en	They smell nice.
+ba	See rainbow.	en	I see a rainbow.
+ba	Wearn cowors.	en	Let's learn colors.
+ba	"Red, bwue, green."	en	"Red, blue, and green."
+ba	Yewow sun.	en	The sun is yellow.
+ba	Purple grape.	en	A grape is purple.
+ba	Orange fruit.	en	An orange is orange.
+ba	Pink dress.	en	I have a pink dress.
+ba	Bwack cat.	en	There's a black cat.
+ba	White dog.	en	There's a white dog.
+ba	Brown bear.	en	That's a brown bear.
+ba	Gray cwouds.	en	The clouds are gray.
+ba	Watch sunset.	en	Let's watch the sunset.
+ba	Pretty cowors.	en	The colors are pretty.
+ba	Moon rising.	en	The moon is rising.
+ba	Stars twinkle.	en	The stars are twinkling.
+ba	Night animaws.	en	There are animals at night.
+ba	Hear ow.	en	I hear an owl.
+ba	Ow says hoot.	en	The owl says hoot.
+ba	Bat fwying.	en	The bat is flying.
+ba	Firefwies gwow.	en	The fireflies are glowing.
+ba	Catch firefwies.	en	Let's catch fireflies.
+ba	Use jar.	en	Let's use a jar.
+ba	Wet dem go.	en	Let's let them go.
+ba	Make wish.	en	Let's make a wish.
+ba	Wish come true.	en	Maybe the wish will come true.
+ba	Sweeping bag cozy.	en	My sleeping bag is cozy.
+ba	Count sheep.	en	Let's count sheep.
+ba	Drift to sweep.	en	I'm drifting off to sleep.
+ba	Sweet dreams.	en	Sweet dreams.
+ba	Good morning.	en	Good morning.
+ba	Birds awake.	en	The birds are awake.
+ba	Sunrise pretty.	en	The sunrise is pretty.
+ba	Make breakfast.	en	Let's make breakfast.
+ba	Pancakes pwease.	en	"May I have pancakes, please?"
+ba	Pour syrup.	en	Let's pour syrup.
+ba	Scrambled eggs.	en	Let's make scrambled eggs.
+ba	Cook bacon.	en	Let's cook bacon.
+ba	Orange juice.	en	Let's have orange juice.
+ba	Cereaw bow.	en	I have a bowl of cereal.
+ba	Miwk spiwed.	en	I spilled the milk.
+ba	Cwean up.	en	Let's clean up.
+ba	Wipe table.	en	Let's wipe the table.
+ba	Dishes away.	en	Let's put the dishes away.
+ba	Brush teef.	en	Let's brush our teeth.
+ba	Put on cwodas.	en	Let's put on clothes.
+ba	Get backpack.	en	Get your backpack.
+ba	Weady to go.	en	I'm ready to go.
+ba	Wait for bus.	en	Let's wait for the bus.
+ba	Bus is here.	en	The bus is here.
+ba	Say goodbye.	en	Let's say goodbye.
+ba	See you water.	en	See you later.
+ba	At schoow now.	en	I'm at school now.
+ba	Meet friends.	en	I'm meeting friends.
+ba	Wearn today.	en	I'm learning today.
+ba	Story time.	en	It's story time.
+ba	Art cwass fun.	en	Art class is fun.
+ba	Paint picture.	en	I'm painting a picture.
+ba	Music cwass.	en	It's music class.
+ba	Sing songs.	en	We are singing songs.
+ba	Wunch time.	en	It's lunch time.
+ba	Share snacks.	en	Let's share snacks.
+ba	Recess time.	en	It's recess time.
+ba	Pway tag.	en	Let's play tag.
+ba	Cwass over.	en	Class is over.
+ba	Home time.	en	It's time to go home.
+ba	Mommy pick up.	en	Mommy is picking me up.
+ba	Tew about day.	en	I'll tell you about my day.
+ba	Do homework.	en	I need to do homework.
+ba	Maf probwems.	en	I'm doing math problems.
+ba	Wead chapter.	en	I need to read a chapter.
+ba	Study words.	en	I'm studying words.
+ba	Time to rewax.	en	It's time to relax.
+ba	Watch show.	en	Can I watch a show?
+ba	Pway games.	en	Let's play games.
+ba	Dinner time.	en	It's dinner time.
+ba	Set da table.	en	Let's set the table.
+ba	Eat togever.	en	Let's eat together.
+ba	Fank you meaw.	en	Thank you for the meal.
+ba	Cwear dishes.	en	Let's clear the dishes.
+ba	Baf time.	en	It's bath time.
+ba	Spwash wawa.	en	Let's splash water.
+ba	Put on pajamas.	en	Let's put on pajamas.
+ba	Wead bedtime story.	en	Please read me a bedtime story.
+ba	Give hugs.	en	Let's give hugs.
+ba	Kiss goodnight.	en	Goodnight kiss.
+ba	Sweep tight.	en	Sleep tight.
+ba	Dream sweetwy.	en	Dream sweetly.
+ba	See you morning.	en	I'll see you in the morning.
+ba	Awarm set.	en	The alarm is set.
+ba	Wights off.	en	The lights are off.
+ba	Curtains cwosed.	en	The curtains are closed.
+ba	Comfortable bed.	en	My bed is comfortable.
+ba	Hear rain.	en	I hear the rain.
+ba	Funder woud.	en	The thunder is loud.
+ba	Not scared.	en	I'm not scared.
+ba	Snuggle teddy.	en	I'm snuggling my teddy.
+ba	Faw asweep.	en	I'm falling asleep.
+ba	New day tomorrow.	en	There will be a new day tomorrow.
+ba	Night sky dark.	en	The night sky is dark.
+ba	Warm bwanket.	en	My blanket is warm.
+ba	Heart happy.	en	My heart is happy.
+ba	Wove famiwy.	en	I love my family.
+ba	Peacefuw night.	en	It's a peaceful night.
+ba	See you soon.	en	See you soon.
+ba	Bedtime prayer.	en	It's time for a bedtime prayer.
+ba	Gentle breeze.	en	There's a gentle breeze.
+ba	Crickets chirp.	en	The crickets are chirping.
+ba	Goodnight moon.	en	"Goodnight, moon."
+ba	Goodnight stars.	en	"Goodnight, stars."
+ba	Smile on face.	en	I have a smile on my face.
+ba	Happy foughts.	en	I'm thinking happy thoughts.
+ba	Cozy room.	en	My room is cozy.
+ba	Nighttime quiet.	en	The nighttime is quiet.
+ba	Wuwaby soft.	en	The lullaby is soft.
+ba	Bedtime routine.	en	This is my bedtime routine.
+ba	Woved aways.	en	I am always loved.
+ba	Dream of fun.	en	I will dream of fun.
+ba	Morning comes.	en	Morning will come.
+ba	Rest wew.	en	Rest well.
+ba	Under covers.	en	I'm under the covers.
+ba	Sweep peacefuw.	en	Sleep peacefully.
+ba	End of day.	en	It's the end of the day.
+ba	Whisper goodnight.	en	Whisper goodnight.
+ba	Nightwight on.	en	The nightlight is on.
+ba	Toy by side.	en	My toy is by my side.
+ba	Bedtime now.	en	It's bedtime now.
+ba	Hug tight.	en	Hug me tight.
+ba	See you dreams.	en	I'll see you in my dreams.
+ba	Time go home.	en	It's time to go home.
+ba	Today fun.	en	Today was fun.
+ba	Fank you for day.	en	Thank you for the day.
+ba	You're wewcome.	en	You're welcome.
+ba	Wet's do again.	en	Let's do it again.
+ba	Maybe tomorrow.	en	Maybe tomorrow.
+ba	Wet's rest.	en	Now let's rest.

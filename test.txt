@@ -1,0 +1,49 @@
+ba	Pway dress-up.	en	Let's play dress-up.
+ba	Wearing mommy's shoes.	en	I am wearing Mommy's shoes.
+ba	Pretend princess.	en	I am pretending to be a princess.
+ba	Pretend superhero.	en	Let's pretend to be superheroes.
+ba	Fwy awound.	en	Let's fly around.
+ba	Save da day.	en	We are saving the day.
+ba	Buiwd a fort.	en	Let's build a fort.
+ba	Use bwankets.	en	We'll use blankets.
+ba	Hide inside.	en	Let's hide inside.
+ba	Fwashwight fun.	en	Playing with the flashlight is fun.
+ba	Tew secwets.	en	Let's tell secrets.
+ba	Make shadow puppets.	en	Let's make shadow puppets.
+ba	Scary stories.	en	Let's tell scary stories.
+ba	Waugh togever.	en	Let's laugh together.
+ba	Pway with cars.	en	Let's play with cars.
+ba	Race cars.	en	Let's race the cars.
+ba	Car go vroom!	en	The car goes vroom!
+ba	Go on swide.	en	I want to go on the slide.
+ba	Doggie wag taiw.	en	The dog is wagging its tail.
+ba	Share toy pwease.	en	Please share the toy with me.
+ba	Aw better now.	en	It's all better now.
+ba	Time for wunch.	en	It's time for lunch.
+ba	Sit under tree.	en	Let's sit under the tree.
+ba	Eat sandwiches.	en	Let's eat sandwiches.
+ba	Yummy and dewicious.	en	They are yummy and delicious.
+ba	Want some fruit?	en	Do you want some fruit?
+ba	Yes, pwease.	en	"Yes, please."
+ba	Apple or banana?	en	An apple or a banana?
+ba	Banana pwease.	en	"A banana, please."
+ba	Wet's pway a game.	en	Let's play a game.
+ba	I spy red.	en	I spy something red.
+ba	Fwower?	en	Is it the flower?
+ba	Yes! You got it!	en	Yes! You got it!
+ba	Your turn now.	en	It's your turn now.
+ba	I spy bwue.	en	I spy something blue.
+ba	Da sky?	en	Is it the sky?
+ba	Correct!	en	Correct!
+ba	Pack up.	en	Let's pack up.
+ba	Want pway wif bwocks.	en	I want to play with blocks.
+ba	Buiwd big tower.	en	Let's build a big tower.
+ba	"Oops, few down."	en	"Oops, it fell down."
+ba	Fix it.	en	Let's fix it.
+ba	Go to zoo?	en	Can we go to the zoo?
+ba	See big ewephant.	en	I want to see the big elephant.
+ba	Monkey swing tree.	en	The monkey is swinging in the tree.
+ba	Wion say roar.	en	The lion says roar.
+ba	I wike giraffe.	en	I like the giraffe.
+ba	Feed da animaws?	en	Can we feed the animals?
+ba	Fank you coming.	en	Thank you for coming.
