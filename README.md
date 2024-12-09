@@ -1,6 +1,6 @@
 # Translation Transformer Overview
 
-*Note: This notebook is intended to used in Google Colab. Before proceeding, set your runtime type to a GPU such as "T4" for faster training.
+*Note: This notebook is intended to be used in Google Colab. Before proceeding, set your runtime type to a GPU such as "T4" for faster training.
 
 In this homework, we will be building a simple sequence-to-sequence (seq2seq) model that translates simple English sentences and phrases into a simplified form of English spoken by very young children. This "toddler-speak" is comprised of
 
