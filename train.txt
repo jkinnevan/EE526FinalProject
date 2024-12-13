@@ -1,23 +1,23 @@
 ba	Baba miwk.	en	I want milk in a bottle.
-ba	Baba duce.	en	I want juice in a bottle.
+ba	Baba juice.	en	I want juice in a bottle.
 ba	Mommy.	en	Mommy
 ba	Mama.	en	Mama.
 ba	Doggie eat bun.	en	The dog is eating a bone.
 ba	Doggie go woof.	en	The dog goes woof.
 ba	Cake?	en	May I have some cake?
 ba	brocky is yucky.	en	I don not like broccoli.
-ba	Mama not go.	en	"Do not go, Mama."
-ba	Mama no go.	en	"Do not go, Mama."
+ba	Mama not go.	en	Do not go, Mama.
+ba	Mama no go.	en	Don't go, Mama.
 ba	pway wif me.	en	Play with me.
 ba	Mama go bye-bye.	en	Mama left.
-ba	"Bye-bye, Mama."	en	"Goodbye, Mama."
+ba	Bye-bye, Mama.	en	Goodbye, Mama.
 ba	Go potty.	en	I need to used the restroom.
 ba	Go potty now.	en	I need to used the restroom now.
 ba	Doggie siwee.	en	The dog is being silly.
 ba	Mama siwee.	en	Mama is being silly.
 ba	Dada siwee.	en	Daddy is being silly.
 ba	Dada go bye-bye	en	Daddy left.
-ba	"Bye-bye, Dada."	en	"Goodbye, Dada."
+ba	Bye-bye, Dada.	en	Goodbye, Dada.
 ba	pway owside.	en	I want to play outside.
 ba	Doggie pway owside.	en	The dog is playing outside.
 ba	Ice cweam yummy.	en	Ice cream is yummy.
@@ -29,9 +29,9 @@ ba	Cwowds!	en	I see clouds!
 ba	Hungwee.	en	I am hungry.
 ba	No bed.	en	I don't want bed.
 ba	Go potty.	en	I used the restroom.
-ba	Wawa pwease.	en	"I want water, please."
+ba	Wawa pwease.	en	I want water, please.
 ba	Wawa.	en	I want water.
-ba	Doggie run fas'.	en	The dog is running fast.
+ba	Doggie run fast.	en	The dog is running fast.
 ba	Kitty pway wif me.	en	The kitten is playing with me.
 ba	Want cookie.	en	I want a cookie.
 ba	No nap!	en	I don't want to take a nap.
@@ -57,7 +57,7 @@ ba	Big twuck!	en	That's a big truck.
 ba	Car go vroom!	en	The car goes vroom.
 ba	Twain choo choo!	en	The train goes choo choo.
 ba	Want up!	en	I want to be picked up.
-ba	Down pwease.	en	"Put me down, please."
+ba	Down pwease.	en	Put me down, please.
 ba	I do it!	en	I can do it.
 ba	Hep me!	en	Help me!
 ba	Fank you!	en	Thank you!
@@ -68,9 +68,9 @@ ba	Band-aid pwease.	en	Please give me a band-aid.
 ba	Happy!	en	I am happy.
 ba	Sad.	en	I am sad.
 ba	No wan' it.	en	I don't want it.
-ba	Appwe pwease.	en	"I want an apple, please."
+ba	Appwe pwease.	en	I want an apple, please.
 ba	Banana yummy.	en	The banana is yummy.
-ba	Juice pwease.	en	"I would like some juice, please."
+ba	Juice pwease.	en	I would like some juice, please.
 ba	Miwk gone.	en	My milk is gone.
 ba	Pway baw!	en	Let's play ball!
 ba	Frow baw!	en	Throw the ball!
@@ -88,7 +88,7 @@ ba	Dance me!	en	Dance with me!
 ba	Sing song!	en	Sing a song!
 ba	Wead book.	en	Read me a book.
 ba	Stowy time!	en	It's story time.
-ba	Owside pwease.	en	"Can we go outside, please?"
+ba	Owside pwease.	en	Can we go outside, please?
 ba	Inside now.	en	We need to go inside now.
 ba	Wainy day.	en	It's a rainy day.
 ba	Sunny day!	en	It's a sunny day.
@@ -133,12 +133,12 @@ ba	I want it.	en	I want it.
 ba	Doggie sweep.	en	The dog is sleeping.
 ba	Kitty meow.	en	The cat says meow.
 ba	Hewp cook.	en	I want to help cook.
-ba	Ice cweam pwease.	en	"May I have some ice cream, please."
+ba	Ice cweam pwease.	en	May I have some ice cream, please.
 ba	Daddy funny.	en	Daddy is funny.
-ba	Mama wead pwease.	en	"Mama, please read to me."
+ba	Mama wead pwease.	en	Mama, please read to me.
 ba	More stowy.	en	I want another story.
 ba	Shoe untied.	en	My shoe is untied.
-ba	wook! Fwog!	en	Look! A frog!
+ba	Wook! Fwog!	en	Look! A frog!
 ba	Buggie fwying.	en	The bug is flying.
 ba	Want pway-doh.	en	I want to play with Play-Doh.
 ba	Mama's car.	en	That's Mama's car.
@@ -185,14 +185,14 @@ ba	Dive in.	en	I am diving in.
 ba	Dry hair pwease.	en	Please dry my hair.
 ba	Hair wet.	en	My hair is wet.
 ba	Tie shoes.	en	I need to tie my shoes.
-ba	Want bwanket.	en	I want my blanket.
+ba	Want bwankie.	en	I want my blanket.
 ba	Scared dark.	en	I am scared of the dark.
 ba	Turn wights on.	en	Turn the lights on.
 ba	Turn wights off.	en	Turn the lights off.
 ba	Monster under bed!	en	There's a monster under the bed!
 ba	Not tired.	en	I am not tired.
-ba	"Mommy, carry me."	en	"Mommy, please carry me."
-ba	"Daddy, pway game."	en	"Daddy, let's play a game."
+ba	Mommy, carry me.	en	Mommy, please carry me.
+ba	Daddy, pway game.	en	Daddy, let's play a game.
 ba	Want story.	en	I want a story.
 ba	Go zoo?	en	Can we go to the zoo?
 ba	See ephant!	en	I see an elephant!
@@ -295,11 +295,11 @@ ba	wight off pwease.	en	Please turn off the light.
 ba	Scary part!	en	This is a scary part!
 ba	Funny part!	en	This is a funny part!
 ba	Cwap at end.	en	Clap at the end.
-ba	Need bwanket.	en	I need a blanket.
+ba	Need bwankie.	en	I need a blanket.
 ba	Go camping.	en	Let's go camping.
 ba	Pitch tent.	en	Let's pitch the tent.
 ba	Make campfire.	en	Let's make a campfire.
-ba	Roast marshmewows.	en	Let's roast marshmallows.
+ba	Eat marshmewows.	en	Let's eat marshmallows.
 ba	Tew stories.	en	Let's tell stories.
 ba	See stars.	en	We can see the stars.
 ba	Sweeping bag.	en	I have a sleeping bag.
@@ -320,7 +320,7 @@ ba	Sit seat.	en	Sit on the seat.
 ba	Puw cord.	en	Pull the cord to stop.
 ba	Get off here.	en	We get off here.
 ba	Wait train.	en	We're waiting for the train.
-ba	Tickets pwease.	en	"We need tickets, please."
+ba	Tickets pwease.	en	We need tickets, please.
 ba	Aw aboard!	en	All aboard!
 ba	Train moving.	en	The train is moving.
 ba	wook outside.	en	Look outside the window.
@@ -398,7 +398,7 @@ ba	Bad dream.	en	I had a bad dream.
 ba	Need nightwight.	en	I need a nightlight.
 ba	Warm miwk.	en	I want warm milk.
 ba	Sing wuwaby.	en	Please sing a lullaby.
-ba	Bwanket cozy.	en	My blanket is cozy.
+ba	Bwankie cozy.	en	My blanket is cozy.
 ba	Pet soft.	en	My pet is soft.
 ba	Fish swim.	en	The fish is swimming.
 ba	Bird fwy.	en	The bird is flying.
@@ -449,7 +449,7 @@ ba	Cwap rhyvm.	en	Clap the rhythm.
 ba	Whisper secrets.	en	Let's whisper secrets.
 ba	Giggwe togever.	en	Let's giggle together.
 ba	Pretend sweep.	en	Let's pretend to sleep.
-ba	Surprise wake up.	en	"Surprise, wake up!"
+ba	Surprise wake up.	en	Surprise, wake up!
 ba	pway tag.	en	Let's play tag.
 ba	You're it!	en	You're it!
 ba	Chase me.	en	Come chase me.
@@ -461,11 +461,11 @@ ba	Peek-a-boo!	en	Peek-a-boo!
 ba	Hide under table.	en	Let's hide under the table.
 ba	Found you!	en	I found you!
 ba	Time out.	en	It's time out.
-ba	Sorry mommy.	en	"I'm sorry, Mommy."
+ba	Sorry mommy.	en	I'm sorry, Mommy.
 ba	Want see movie.	en	I want to watch a movie.
-ba	Daddy wead book.	en	"Daddy, please read me a book."
+ba	Daddy wead book.	en	Daddy, please read me a book.
 ba	Mama cook dinner.	en	Mama is cooking dinner.
-ba	No wike veggies.	en	I don't like vegetables.
+ba	Don't wike vegables.	en	I don't like vegetables.
 ba	Want pizza.	en	I want pizza.
 ba	Soup hot!	en	The soup is hot!
 ba	Bwow on food.	en	Please blow on my food.
@@ -500,8 +500,8 @@ ba	Eat snack togever.	en	Let's eat a snack together.
 ba	Paint naiws.	en	Can you paint my nails?
 ba	Want go park.	en	I want to go to the park.
 ba	wook! Butterfwy!	en	Look! A butterfly!
-ba	"Mommy, watch me!"	en	"Mommy, watch me!"
-ba	"Daddy, wook here!"	en	"Daddy, look over here!"
+ba	Mommy, watch me!	en	Mommy, watch me!
+ba	Daddy, wook here!	en	Daddy, look over here!
 ba	Buiwd castle.	en	I am building a castle.
 ba	Hewp tie bow.	en	Please help me tie a bow.
 ba	Want ride horsey.	en	I want to ride the horse.
@@ -589,8 +589,8 @@ ba	Wear pajamas.	en	Put on your pajamas.
 ba	Goodnight kiss.	en	Goodnight kiss.
 ba	See you tomowow.	en	See you tomorrow.
 ba	Sweet dweams.	en	Sweet dreams.
-ba	Mowning sunshine.	en	"Good morning, sunshine."
-ba	Wake up sweepyhead.	en	"Wake up, sleepyhead."
+ba	Mowning sunshine.	en	Good morning, sunshine.
+ba	Wake up sweepyhead.	en	Wake up, sleepyhead.
 ba	Eat bweakfast now.	en	It's time to eat breakfast now.
 ba	Pancakes yummy.	en	Pancakes are yummy.
 ba	Pouw sywup.	en	Let's pour syrup.
@@ -608,8 +608,8 @@ ba	Go inside now.	en	Let's go inside now.
 ba	Change cwodas.	en	Let's change clothes.
 ba	Wawm up by fire.	en	Let's warm up by the fire.
 ba	Dwink hot cocoa.	en	Let's drink hot cocoa.
-ba	Marshmawows pwease.	en	"May I have marshmallows, please?"
-ba	Cozy bwanket.	en	I have a cozy blanket.
+ba	Marshmawows pwease.	en	May I have marshmallows, please?
+ba	Cozy bwankie.	en	I have a cozy blanket.
 ba	wead book togever.	en	Let's read a book together.
 ba	Turn pages.	en	Let's turn the pages.
 ba	wook at pictures.	en	Look at the pictures.
@@ -627,7 +627,7 @@ ba	Cookies weady!	en	The cookies are ready!
 ba	wet coow down.	en	Let them cool down.
 ba	Eat cookies now.	en	Let's eat the cookies now.
 ba	Share wif famiwy.	en	Let's share with the family.
-ba	Fank you mommy.	en	"Thank you, Mommy."
+ba	Fank you mommy.	en	Thank you, Mommy.
 ba	You wewcome.	en	You're welcome.
 ba	wet's make art.	en	Let's make art.
 ba	Use cwayons.	en	Let's use crayons.
@@ -689,7 +689,7 @@ ba	Wook at pictures.	en	Look at the pictures.
 ba	Watch video.	en	Let's watch a video.
 ba	waugh at funny parts.	en	Let's laugh at the funny parts.
 ba	Time to shut down.	en	It's time to shut down.
-ba	Goodbye compute.	en	"Goodbye, computer."
+ba	Goodbye compute.	en	Goodbye, computer.
 ba	Hewp cook dinner.	en	I want to help cook dinner.
 ba	Wash vegetables.	en	Let's wash the vegetables.
 ba	Stir pot.	en	I am stirring the pot.
@@ -774,7 +774,7 @@ ba	Row it out.	en	Let's roll it out.
 ba	Use cookie cutters.	en	Let's use cookie cutters.
 ba	Create animaws.	en	Let's create animals.
 ba	Bake in oven.	en	Let's bake them in the oven.
-ba	Paint dam.	en	"After baking, we can paint them."
+ba	Paint dam.	en	After baking, we can paint them.
 ba	Show to friends.	en	Let's show them to friends.
 ba	Go on a hike.	en	Let's go on a hike.
 ba	Wear hiking boots.	en	We should wear hiking boots.
@@ -869,7 +869,7 @@ ba	Can we paint?	en	Can we paint?
 ba	Want more juice.	en	I want more juice.
 ba	No wike carrots.	en	I don't like carrots.
 ba	wike your shoes.	en	I like your shoes.
-ba	"Mommy, carry me."	en	"Mommy, please carry me."
+ba	Mommy, carry me.	en	Mommy, please carry me.
 ba	Pway wif me.	en	Please play with me.
 ba	Go to pwayground.	en	Let's go to the playground.
 ba	I can swing high.	en	I can swing high.
@@ -921,7 +921,7 @@ ba	Feed da baby.	en	Let's feed the baby.
 ba	Put baby to sweep.	en	Let's put the baby to sleep.
 ba	Time for tea party.	en	It's time for a tea party.
 ba	Pretend tea.	en	Let's have pretend tea.
-ba	Want more pwease.	en	"I would like more, please."
+ba	Want more pwease.	en	I would like more, please.
 ba	Thank you kindwy.	en	Thank you kindly.
 ba	wet's go for wawk.	en	Let's go for a walk.
 ba	wook! A squirrew!	en	Look! A squirrel!
@@ -944,7 +944,7 @@ ba	Want to wead.	en	I want to read.
 ba	Turn da page.	en	Turn the page.
 ba	What happens next?	en	What happens next?
 ba	wet's imagine.	en	Let's imagine.
-ba	Once upon a time.	en	Once upon a time.
+ba	Wike cake?	en	Do you like cake?
 ba	I wike dat story.	en	I like that story.
 ba	Want to draw it.	en	I want to draw it.
 ba	wook at rainbow.	en	Look at the rainbow.
@@ -960,7 +960,7 @@ ba	wet's start over.	en	Let's start over.
 ba	Time to go home.	en	It's time to go home.
 ba	Can we stay wonger?	en	Can we stay longer?
 ba	See you tomorrow.	en	I will see you tomorrow.
-ba	Goodbye friend.	en	"Goodbye, friend."
+ba	Goodbye friend.	en	Goodbye, friend.
 ba	Want to hewp garden.	en	I want to help in the garden.
 ba	Pwant seeds.	en	Let's plant seeds.
 ba	Wawa da pwants.	en	Let's water the plants.
@@ -983,7 +983,7 @@ ba	Give me hug.	en	Give me a hug.
 ba	Goodnight kiss.	en	A goodnight kiss.
 ba	Sweet dreams.	en	Sweet dreams.
 ba	See you in morning.	en	See you in the morning.
-ba	Morning sunshine.	en	"Good morning, sunshine."
+ba	Morning sunshine.	en	Good morning, sunshine.
 ba	wet's make breakfast.	en	Let's make breakfast.
 ba	Pancakes or eggs?	en	Pancakes or eggs?
 ba	Pour da juice.	en	Let's pour the juice.
