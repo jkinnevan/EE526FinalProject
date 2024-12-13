@@ -1,17 +1,17 @@
-ba	Want juice pwease.	en	"I want juice, please."
-ba	Cat meowing.	en	The cat is meowing.
-ba	Pway hide seek.	en	Let's play hide and seek.
-ba	Sky is dark.	en	The sky is dark.
-ba	Stars so bright.	en	The stars are so bright.
-ba	Want wead book.	en	I want to read a book.
-ba	Time for nap.	en	It's time for a nap.
-ba	Open window.	en	Please open the window.
-ba	Cwose door.	en	Please close the door.
-ba	Need hewp tie.	en	I need help tying my shoes.
-ba	Drink miwk.	en	I am drinking milk.
-ba	Eat breakfast.	en	It's time to eat breakfast.
-ba	Birds singing.	en	The birds are singing.
-ba	Want to draw.	en	I want to draw.
+ba	Dress-up is fun.	en	Dress-up is fun.
+ba	My shoes pretty.	en	My shoes are pretty.
+ba	You a princess.	en	You look like a princess.
+ba	Marshmallows sweet.	en	Marshmallows taste sweet.
+ba	Birds fwy in da sky.	en	The birds fly high in the sky.
+ba	Heroes wike saving da day.	en	Heroes like saving the day.
+ba	Buiwd a castle.	en	Let's build a castle.
+ba	Make fort wif bwankies.	en	Make a fort with blankets.
+ba	Me hide.	en	I want me to hide.
+ba	Need hewp tying shoes.	en	I need help tying my shoes.
+ba	Drinking miwk.	en	I am drinking milk.
+ba	Shh. Secret.	en	Shh. It's a secret.
+ba	Candy yummy	en	The candy is yummy.
+ba	Cookies dewicious!	en	Cookies are delicious!
 ba	Use markers.	en	I want to use markers.
 ba	Need scissors.	en	I need scissors.
 ba	Pet da cat.	en	Can I pet the cat?
@@ -20,7 +20,7 @@ ba	Wear raincoat.	en	I need to wear my raincoat.
 ba	Hands sticky.	en	My hands are sticky.
 ba	Wash face.	en	I need to wash my face.
 ba	Want cupcake.	en	I want a cupcake.
-ba	Too woud.	en	It's too loud.
+ba	Fwashwight!	en	It's a flashlight!
 ba	Too quiet.	en	It's too quiet.
 ba	Pway puzzle.	en	Let's play with the puzzle.
 ba	Piece missing.	en	A piece is missing.
@@ -28,23 +28,23 @@ ba	Found piece.	en	I found the piece.
 ba	Buiwd train tracks.	en	Let's build train tracks.
 ba	Train coming!	en	The train is coming!
 ba	Need batteries.	en	I need batteries.
-ba	Watch cwouds.	en	Let's watch the clouds.
-ba	Cwoud wook wike animaw.	en	The cloud looks like an animal.
-ba	Make wemonade stand.	en	Let's make a lemonade stand.
-ba	Sew wemonade.	en	Let's sell lemonade.
-ba	Count money.	en	Let's count the money.
-ba	Give change.	en	We need to give change.
-ba	Want smoovie.	en	I want a smoothie.
-ba	Pick berries.	en	Let's pick berries.
-ba	Eat berries.	en	We can eat the berries.
-ba	Wash fruits.	en	We need to wash the fruits.
+ba	Grapes or bananas?	en	Do you want grapes or bananas?
+ba	Cake or cookies?	en	Do you want cake or cookies?
+ba	Pway a game?	en	Can we play a game?
+ba	Banana yewow.	en	Bananas are yellow.
+ba	Marshmallows?	en	Can I have marshmallows?
+ba	Spy wif my eye.	en	I spy with my little eye.
+ba	Free monkeys jumping.	en	Three monkeys jumping on the bed.
+ba	A roar.	en	I hear a roar.
+ba	No pick fwowers.	en	Don't pick the flowers.
+ba	Animaws sweeping.	en	The animaws are sleeping.
 ba	Make fruit sawad.	en	Let's make a fruit salad.
 ba	Cut fruits.	en	We need to cut the fruits.
 ba	Mix togever.	en	Let's mix them together.
 ba	Yummy snack.	en	This is a yummy snack.
 ba	Go picnic.	en	Let's go on a picnic.
 ba	Pack basket.	en	Let's pack the basket.
-ba	Spwead bwanket.	en	Let's spread out the blanket.
+ba	Spwead bwankie.	en	Let's spread out the blanket.
 ba	Bugs here.	en	There are bugs here.
 ba	Use bug spray.	en	We should use bug spray.
 ba	Pway frisbee.	en	Let's play frisbee.
@@ -68,21 +68,21 @@ ba	Wearn cowors.	en	Let's learn colors.
 ba	"Red, bwue, green."	en	"Red, blue, and green."
 ba	Yewow sun.	en	The sun is yellow.
 ba	Purple grape.	en	A grape is purple.
-ba	Orange fruit.	en	An orange is orange.
+ba	Orange orange.	en	An orange is orange.
 ba	Pink dress.	en	I have a pink dress.
 ba	Bwack cat.	en	There's a black cat.
 ba	White dog.	en	There's a white dog.
 ba	Brown bear.	en	That's a brown bear.
 ba	Gray cwouds.	en	The clouds are gray.
 ba	Watch sunset.	en	Let's watch the sunset.
-ba	Pretty cowors.	en	The colors are pretty.
+ba	Wike grape?	en	Do you like grapes?
 ba	Moon rising.	en	The moon is rising.
 ba	Stars twinkle.	en	The stars are twinkling.
 ba	Night animaws.	en	There are animals at night.
 ba	Hear ow.	en	I hear an owl.
 ba	Ow says hoot.	en	The owl says hoot.
 ba	Bat fwying.	en	The bat is flying.
-ba	Firefwies gwow.	en	The fireflies are glowing.
+ba	Firefwies gwowing.	en	The fireflies are glowing.
 ba	Catch firefwies.	en	Let's catch fireflies.
 ba	Use jar.	en	Let's use a jar.
 ba	Wet dem go.	en	Let's let them go.
@@ -116,10 +116,10 @@ ba	Say goodbye.	en	Let's say goodbye.
 ba	See you water.	en	See you later.
 ba	At schoow now.	en	I'm at school now.
 ba	Meet friends.	en	I'm meeting friends.
-ba	Wearn today.	en	I'm learning today.
+ba	Wearning today.	en	I'm learning today.
 ba	Story time.	en	It's story time.
 ba	Art cwass fun.	en	Art class is fun.
-ba	Paint picture.	en	I'm painting a picture.
+ba	Painting picture.	en	I'm painting a picture.
 ba	Music cwass.	en	It's music class.
 ba	Sing songs.	en	We are singing songs.
 ba	Wunch time.	en	It's lunch time.
@@ -131,7 +131,7 @@ ba	Home time.	en	It's time to go home.
 ba	Mommy pick up.	en	Mommy is picking me up.
 ba	Tew about day.	en	I'll tell you about my day.
 ba	Do homework.	en	I need to do homework.
-ba	Maf probwems.	en	I'm doing math problems.
+ba	Pway puppets.	en	I want to play with puppets.
 ba	Wead chapter.	en	I need to read a chapter.
 ba	Study words.	en	I'm studying words.
 ba	Time to rewax.	en	It's time to relax.
@@ -162,11 +162,11 @@ ba	Snuggle teddy.	en	I'm snuggling my teddy.
 ba	Faw asweep.	en	I'm falling asleep.
 ba	New day tomorrow.	en	There will be a new day tomorrow.
 ba	Night sky dark.	en	The night sky is dark.
-ba	Warm bwanket.	en	My blanket is warm.
+ba	Warm bwankie.	en	My blanket is warm.
 ba	Heart happy.	en	My heart is happy.
 ba	Wove famiwy.	en	I love my family.
 ba	Peacefuw night.	en	It's a peaceful night.
-ba	See you soon.	en	See you soon.
+ba	See shadow.	en	I see my shadow.
 ba	Bedtime prayer.	en	It's time for a bedtime prayer.
 ba	Gentle breeze.	en	There's a gentle breeze.
 ba	Crickets chirp.	en	The crickets are chirping.
@@ -174,18 +174,18 @@ ba	Goodnight moon.	en	"Goodnight, moon."
 ba	Goodnight stars.	en	"Goodnight, stars."
 ba	Smile on face.	en	I have a smile on my face.
 ba	Happy foughts.	en	I'm thinking happy thoughts.
-ba	Cozy room.	en	My room is cozy.
+ba	Fwower smews good.	en	The flower smells good.
 ba	Nighttime quiet.	en	The nighttime is quiet.
 ba	Wuwaby soft.	en	The lullaby is soft.
 ba	Bedtime routine.	en	This is my bedtime routine.
 ba	Woved aways.	en	I am always loved.
 ba	Dream of fun.	en	I will dream of fun.
-ba	Morning comes.	en	Morning will come.
+ba	Morning come.	en	Morning will come.
 ba	Rest wew.	en	Rest well.
 ba	Under covers.	en	I'm under the covers.
 ba	Sweep peacefuw.	en	Sleep peacefully.
-ba	End of day.	en	It's the end of the day.
-ba	Whisper goodnight.	en	Whisper goodnight.
+ba	End of da day.	en	It's the end of the day.
+ba	Pway princess.	en	Let's play princess.
 ba	Nightwight on.	en	The nightlight is on.
 ba	Toy by side.	en	My toy is by my side.
 ba	Bedtime now.	en	It's bedtime now.
@@ -193,8 +193,8 @@ ba	Hug tight.	en	Hug me tight.
 ba	See you dreams.	en	I'll see you in my dreams.
 ba	Time go home.	en	It's time to go home.
 ba	Today fun.	en	Today was fun.
-ba	Fank you for day.	en	Thank you for the day.
+ba	My bwankie.	en	This is my blanket.
 ba	You're wewcome.	en	You're welcome.
-ba	Wet's do again.	en	Let's do it again.
-ba	Maybe tomorrow.	en	Maybe tomorrow.
-ba	Wet's rest.	en	Now let's rest.
+ba	Save for water.	en	Let's save it for later.
+ba	Wike wear shoes.	en	I like to wear shoes.
+ba	Giraffe so tall.	en	The giraffe is so tall.
